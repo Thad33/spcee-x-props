@@ -3,7 +3,7 @@
 
 .container {
   display: grid;
-  grid-template-columns: 35% 65%;
+  grid-template-columns: 43% 57%;
   margin-left: 2rem;
 }
 
@@ -17,12 +17,12 @@
     font-family: 'Heebo', sans-serif;
     color: #A3A7C0;
     font-family:'Heebo';
-    font-size: 28px;
+    font-size: 25px;
     letter-spacing: 4.75px;
 }
 
 .para-ii{
-    font-size: 150px;
+    font-size: 28px;
     font-weight: 400;
     font-family: 'Heebo', sans-serif;
     letter-spacing: 15px;
@@ -36,7 +36,6 @@
     font-weight: 400;
     color: #A3A7C0;
     margin-top: 8px;
-    font-size: 18px;
     line-height: 32px;
     font-weight: 400;
 }
