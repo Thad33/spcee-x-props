@@ -5,7 +5,7 @@ import Main from "./Components/Main";
 function App() {
   return (
     <div className="App">
-      <Nav h='Home' d='Destination' c='Crew' t='Technology'/>
+      <Nav h='Home' d='Destination' c='Crew' t='Technology' span={00}/>
       <Main name='SO, YOU WANT TO TRAVEL TO ' space='Space'  />
     </div>
   );
