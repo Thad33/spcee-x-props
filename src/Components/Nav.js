@@ -13,7 +13,7 @@ export default function Nav(props) {
 
                 <div className="nav-div">
                     <ul className="nav-li">
-                        <li className="#"><span>00</span>{props.h}</li>
+                        <li className="#"><span>{props.sp}</span>{props.h}</li>
                         <li className="#"><span>01</span>{props.d}</li>
                         <li className="#"><span>02</span>{props.c}</li>
                         <li className="#"><span>03</span>{props.t}</li>
