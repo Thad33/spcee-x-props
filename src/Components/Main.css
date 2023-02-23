@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100&family=Josefin+Sans:wght@500&family=Zeyada&display=swap');
+
+
+.container {
+  display: grid;
+  grid-template-columns: 35% 65%;
+  margin-left: 2rem;
+}
+
+.comp {
+  color: white;
+  margin: 150px 40px 0px 60px;
+  font-family: 'Heebo';
+}
+
+.para-ii{
+    font-family: 'Heebo', sans-serif;
+    color: #A3A7C0;
+    font-family:'Heebo';
+}
+
+.para-ii{
+    font-size: 70px;
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 15px;
+    padding-left: 5px;
+    text-transform: uppercase;
+}
+
+.para-iii{
+    font-size: 12px;
+    color: #A3A7C0;
+    margin-top: 8px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+}
+
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.circle-e{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 22px;
+    color: #545454;
+    background-color: #fff;
+    width: 190px;
+    height: 190px;
+    margin-top: 120px;
+}
